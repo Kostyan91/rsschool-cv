@@ -9,3 +9,12 @@
 **My skills**:
 
 At the initial level I own *HTML*, *CSS*. Lerning: *JavaScript*.
+
+**Education:**
+          
+1. Belarusian National Technical University 
+    - Facilty:"Mechanical engineering"
+    - Specility: "Mechanical engineering technology"
+    - Year of ending: 2014
+
+**English level:** Pre-intermediate
