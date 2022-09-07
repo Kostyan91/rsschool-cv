@@ -17,4 +17,4 @@ At the initial level I own *HTML*, *CSS*. Lerning: *JavaScript*.
     - Specility: "Mechanical engineering technology"
     - Year of ending: 2014
 
-**English level:** Pre-intermediate
+**English level:** Pre-intermediate 1    
