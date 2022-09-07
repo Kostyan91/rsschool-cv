@@ -1,0 +1,7 @@
+# Koliada Kanstantsin
+**My contacts:**<br>
+1. Adress - Republic of Belarus, Minsk
+2. Email - kostyan912404@gmail.com
+3. GitHub - https://github.com/Kostyan91 
+
+**About me**: My name is Kanstantsin. I am 30 years old. Now I work as a quality engineer at a engineering enterprise.  By education I am a mechanical engineer.I want to change the field of activity. I want to become a web developer. I like to write cod. I set a goal to thoroughly study HTML, CSS, JavaScript
