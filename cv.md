@@ -8,7 +8,7 @@
 
 **My skills**:
 
-At the initial level I own *HTML*, *CSS*. Lerning: *JavaScript*.
+At the initial level I own *HTML*, *CSS*, *JavaScript*.
 
 **Education:**
           
